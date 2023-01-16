@@ -1,6 +1,6 @@
 /* 
    DHT11 Temperature and Humidity Sensor With Arduino
-   For more details, visit: https://techzeero.com/arduino-tutorials/dht11-with-arduino/
+   Ajouter la lib wifi 
 */
 
 #include <dht.h>
