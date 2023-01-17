@@ -1,8 +1,7 @@
 /* 
    DHT11 Temperature and Humidity Sensor With Arduino
    Ajouter la lib wifi 
-   bla bla 
-   jj,jjh
+   
 */
 
 #include <dht.h>
